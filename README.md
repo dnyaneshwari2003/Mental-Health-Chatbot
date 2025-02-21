@@ -41,8 +41,8 @@ This project is a chatbot designed to respond to frequently asked questions abou
 ## File Details
 - `Mental_Health_FAQ.csv`: Contains questions and answers used for chatbot responses.
 - `chatbot.py`: The main chatbot script.
-
+- `Tokanization (1).ipynb `: Preprocessing on dataset 
 ## Dataset 
-- `you can find thi dataset in Kaggle`
+- `you can find this dataset in Kaggle`
 
 
