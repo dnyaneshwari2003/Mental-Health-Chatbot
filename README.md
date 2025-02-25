@@ -43,6 +43,8 @@ This project is a chatbot designed to respond to frequently asked questions abou
 - `chatbot.py`: The main chatbot script.
 - `Tokanization (1).ipynb `: Preprocessing on dataset 
 ## Dataset 
-- `you can find this dataset in Kaggle`
+- https://www.kaggle.com/datasets/narendrageek/mental-health-faq-for-chatbot
+
+  
 
 
