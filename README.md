@@ -1,4 +1,4 @@
-# Mental Health Chatbot
+# Mental Health Chatbot - Retrival Based Bot
 
 ## Overview
 This project is a chatbot designed to respond to frequently asked questions about mental health using Natural Language Processing (NLP) techniques. It utilizes TF-IDF vectorization and cosine similarity to find the most relevant response from a dataset of mental health-related questions and answers.
