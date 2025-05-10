@@ -46,5 +46,7 @@ This project is a chatbot designed to respond to frequently asked questions abou
 - https://www.kaggle.com/datasets/narendrageek/mental-health-faq-for-chatbot
 
 
+## Images
+![Screenshot 2025-05-08 192353](https://github.com/user-attachments/assets/d4497276-be9d-46a6-ac44-cdbf8b6364b7)
 
 
