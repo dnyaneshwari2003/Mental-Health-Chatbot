@@ -44,6 +44,9 @@ This project is a chatbot designed to respond to frequently asked questions abou
 - `Tokanization (1).ipynb `: Preprocessing on dataset 
 ## Dataset 
 - https://www.kaggle.com/datasets/narendrageek/mental-health-faq-for-chatbot
+- https://www.kaggle.com/datasets/thedevastator/nlp-mental-health-conversations
+- https://huggingface.co/datasets/jkhedri/psychology-dataset
+  Note: The dataset provided is merged dataset (from above 3 datasets ), feel free to use any dataset , just modify the column headers as 'Questions ' and 'Response' .
 
 
 ## Images
